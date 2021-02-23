@@ -14,8 +14,10 @@
 2. fruit
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
+
 http://github.com - automatic!
 [GitHub](http://github.com)
+
 As Kanye West said:
 
 > We're living the future so
